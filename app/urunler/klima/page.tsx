@@ -78,7 +78,7 @@ export default function KlimaPage() {
             Marin Klima & Havalandırma Sistemleri
           </h1>
           <p className="text-zinc-300 text-sm sm:text-base max-w-xl mx-auto">
-            Yazın en sıcak Bodrum günlerinde dahi kabinlerinizde ev konforunu yaşamanız için premium deniz kliması montaj ve teknik destek çözümleri.
+            Yazın en sıcak Antalya günlerinde dahi kabinlerinizde ev konforunu yaşamanız için premium deniz kliması montaj ve teknik destek çözümleri.
           </p>
         </div>
       </section>

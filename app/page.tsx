@@ -229,7 +229,7 @@ export default function Home() {
               },
               {
                 title: "7/24 Acil Teknik Müdahale",
-                desc: "Bodrum ve çevre marinalardaki teknelere hızlı ulaşım sağlamak için mobil servis araçlarımızla deniz üstünde de yanınızdayız.",
+                desc: "Antalya Serbest Bölge ve çevre limanlardaki teknelere hızlı ulaşım sağlamak için mobil servis araçlarımızla deniz üstünde de yanınızdayız.",
                 icon: (
                   <path
                     strokeLinecap="round"
@@ -279,7 +279,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {[
             {
-              quote: "Bodrum Göcek seyrimiz öncesinde yatımızın chiller klima ünitesinde ciddi bir arıza oluşmuştu. Teknik ekibin hızlı müdahalesi ve parça temini sayesinde planımızı ertelemeden yola çıkabildik. Son derece profesyoneller.",
+              quote: "Antalya'dan yola çıkışımız öncesinde yatımızın chiller klima ünitesinde ciddi bir arıza oluşmuştu. Teknik ekibin hızlı müdahalesi ve parça temini sayesinde planımızı ertelemeden yola çıkabildik. Son derece profesyoneller.",
               author: "Cem A. (24m Motoryat Sahibi)",
               rating: 5,
             },

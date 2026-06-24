@@ -274,7 +274,7 @@ export default function QuoteWizard() {
                 value={formData.marinaLocation}
                 onChange={(e) => setFormData({ ...formData, marinaLocation: e.target.value })}
                 className="w-full bg-navy-dark border border-white/10 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-primary transition-colors"
-                placeholder="Örn: Bodrum Yalıkavak Marina, Göcek D-Marin vb."
+                placeholder="Örn: Antalya Konyaaltı Serbest Bölge, Setur Marina vb."
               />
             </div>
           </div>

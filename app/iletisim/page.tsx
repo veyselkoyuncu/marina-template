@@ -85,9 +85,9 @@ export default function ContactPage() {
             <div>
               <h3 className="text-sm font-semibold text-zinc-400 uppercase tracking-wider mb-1">Adres</h3>
               <p className="text-white font-medium text-sm leading-relaxed">
-                Yalıkavak Marina, D-Blok No: 12, Bodrum / Muğla
+                Serbest Bölge Mahallesi, Liman Serbest Bölge Konyaaltı/Antalya
               </p>
-              <p className="text-zinc-500 text-xs mt-1">Tüm marinalara mobil araç servisimiz vardır.</p>
+              <p className="text-zinc-500 text-xs mt-1">Tüm liman ve marinalara mobil araç servisimiz vardır.</p>
             </div>
           </div>
 
@@ -194,12 +194,12 @@ export default function ContactPage() {
             <path strokeLinecap="round" strokeLinejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
             <path strokeLinecap="round" strokeLinejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
           </svg>
-          <h3 className="text-lg font-bold text-white mb-1">Bodrum Yalıkavak Marina Ofisimiz</h3>
+          <h3 className="text-lg font-bold text-white mb-1">Antalya Konyaaltı Serbest Bölge Ofisimiz</h3>
           <p className="text-zinc-400 text-sm max-w-md mb-2">
-            Bodrum yarımadasındaki D-Marin Turgutreis, Milta Bodrum Marina ve Yalıkavak Marina lokasyonlarına 30 dakika içerisinde gezici teknik servis aracımızla ulaşıyoruz.
+            Antalya Serbest Bölge, Setur Antalya Marina ve çevre limanlardaki teknelere mobil servis araçlarımızla hızlı teknik destek sağlıyoruz.
           </p>
           <span className="text-xs text-primary font-semibold uppercase tracking-widest px-3 py-1 rounded-full bg-primary/10 border border-primary/20">
-            37°01'44.4\"N 27°16'51.6\"E
+            36°49'49.0\"N 30°35'58.2\"E
           </span>
         </div>
       </div>

@@ -9,7 +9,7 @@ export default function AboutPage() {
     },
     {
       title: "Süreklilik & 7/24 Servis",
-      desc: "Denizcilikte zamanın kıymetini biliyoruz. Seyir halindeyken karşılaşabileceğiniz tüm teknik aksaklıklar için nöbetçi teknik ekiplerimiz Bodrum yarımadasında 7/24 görev başındadır.",
+      desc: "Denizcilikte zamanın kıymetini biliyoruz. Seyir halindeyken karşılaşabileceğiniz tüm teknik aksaklıklar için nöbetçi teknik ekiplerimiz Antalya ve Konyaaltı bölgesinde 7/24 görev başındadır.",
     },
     {
       title: "Uzman Sertifikalı Kadro",
@@ -28,7 +28,7 @@ export default function AboutPage() {
           Hakkımızda
         </h1>
         <p className="text-zinc-400 max-w-2xl mx-auto text-base">
-          Mavi suların konforu ve emniyeti için 15 yılı aşkın teknik birikimimizle Bodrum'da hizmet veriyoruz.
+          Mavi suların konforu ve emniyeti için 15 yılı aşkın teknik birikimimizle Antalya Konyaaltı Serbest Bölge'de hizmet veriyoruz.
         </p>
         <div className="h-1 w-20 bg-primary mx-auto mt-4 rounded-full" />
       </div>
@@ -53,7 +53,7 @@ export default function AboutPage() {
             Marin Service, yat ve gemi elektroniği ile iklimlendirme sistemleri üzerine kurulmuş, teknik tecrübesi yüksek ve marin disiplinine sahip bir uzmanlık merkezidir. Kuruluşumuzdan bu yana yüzlerce süperyat, yelkenli ve ticari gemiye radar sistemleri, sonar üniteleri, autopilot entegrasyonu, marin klima projelendirmesi ve servis desteği sağladık.
           </p>
           <p className="text-zinc-350 text-sm sm:text-base leading-relaxed">
-            Amacımız, yat sahiplerinin seyirlerini güvenli, limandaki konaklamalarını ise en konforlu şekilde geçirmelerini sağlamaktır. Bu nedenle, küresel marin devlerinin en yeni teknolojilerini ve en güvenilir orijinal yedek parçalarını Bodrum merkezli teknik üssümüzle denizle buluşturuyoruz.
+            Amacımız, yat sahiplerinin seyirlerini güvenli, limandaki konaklamalarını ise en konforlu şekilde geçirmelerini sağlamaktır. Bu nedenle, küresel marin devlerinin en yeni teknolojilerini ve en güvenilir orijinal yedek parçalarını Antalya merkezli teknik üssümüzle denizle buluşturuyoruz.
           </p>
         </div>
       </div>
